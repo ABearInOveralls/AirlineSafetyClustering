@@ -32,4 +32,4 @@ Scatter plots of clusters with circled cluster boundaries.
 Safety metrics comparison across different clusters.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
